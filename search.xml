@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>个人简介</title>
+    <url>/QianNing0/2023/09/01/hello-world/</url>
+    <content><![CDATA[<h2 id="教育背景"><a href="#教育背景" class="headerlink" title="教育背景"></a>教育背景</h2><p>| 西安电子科技大学 | 人工智能学院 | 博士 | 计算机科学与技术 | 2019.09 - now |<br>| 西安电子科技大学 | 电子工程学院 | 本科 |  电子信息工程    | 2015.09 - 2019.06 |<br>实验室：智能感知与图像理解教育部重点实验室 （石光明团队）<br>导师：<a href="https://see.xidian.edu.cn/faculty/wsdong/">董伟生教授</a>（长江学者）</p>
+<h2 id="研究方向"><a href="#研究方向" class="headerlink" title="研究方向"></a>研究方向</h2><p>主要研究领域为图像&#x2F;视频恢复重建、质量增强等，如图像超分辨、 图像去噪； 神经网络架构搜索；GAN &#x2F; VQ-VAE &#x2F; Diffusion等图像生成方法。</p>
+<h2 id="近期工作"><a href="#近期工作" class="headerlink" title="近期工作"></a>近期工作</h2><ol>
+<li><strong>Qian Ning</strong>, Fangfang Wu, Weisheng Dong, Xin Li, Guangming Shi, “Exploring Correlations in Degraded Spatial Identity Features for Blind Face Restoration,” <strong>ACM <strong>Multimedia</strong></strong>, 2023</li>
+<li>Chengxing Xie*, <strong>Qian Ning</strong>*, Weisheng Dong and Guangming Shi, “TFRGAN: Leveraging Text Information for Blind Face Restoration with Extreme Degradation,” <strong>CVPRW</strong>,2023. (Equal Contribution)</li>
+<li><strong>Qian Ning</strong>, Weisheng Dong, Xin Li and Jinjina Wu, “Searching Efficient Model-guided Deep Network for Image Denoising,” <em>IEEE Transactions on Image Processing</em> (<strong>TIP</strong>), vol. 32, pp. 668–681, 2023</li>
+<li><strong>Qian Ning</strong>, Jingzhu Tang, Fangfang Wu, Weisheng Dong, Xin Li, and Guangming Shi, “Learning degradation uncertainty for unsupervised real-world image super-resolution,” in <em>Proceedings of the International Conference on International Joint Conferences on Artificial Intelligence</em> (<strong>IJCAI</strong>), 2022</li>
+<li><strong>Qian Ning</strong>, Weisheng Dong, Xin Li, Jinjian Wu, and Guangming Shi, “Uncertainty-driven loss for single image super-resolution,” <em>Advances in Neural Information Processing Systems</em> (<strong>NeurIPS</strong>), vol. 34, pp. 16398–16409, 2021</li>
+<li><strong>Qian Ning</strong>, Weisheng Dong, Guangming Shi, Leida Li, and Xin Li, “Accurate and lightweight image super-resolution with model-guided deep unfolding network,” <em>IEEE Journal of Selected Topics in Signal Processing</em> (<strong>JSTSP</strong>), vol. 15, no. 2, pp. 240–252, 2020</li>
+<li><strong>Qian Ning</strong>, Weisheng Dong, Fangfang Wu, Jinjian Wu, Jie Lin, and Guangming Shi, “Spatial-temporal gaussian scale mixture modeling for foreground estimation,” in <em>Proceedings of the AAAI Conference on Artificial Intelligence</em> (<strong>AAAI</strong>), vol. 34, no. 07, 2020, pp. 11791–11798</li>
+<li><strong>Qian Ning</strong>, Fangfang Wu, Weisheng Dong, Jinjian Wu, Jie Lin, and Guangming Guangming Shi and Xin Li, “Robust Dynamic Background Modeling for Foreground Estimation,” in <em>IEEE International Conference on Visual Communications and Image Processing</em> (<strong>VCIP</strong>), 2022, pp. 1–5</li>
+</ol>
+]]></content>
+  </entry>
+</search>
